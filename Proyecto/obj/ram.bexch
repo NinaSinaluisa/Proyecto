@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__ram.o
+[PROJECT FILES]
+C:\Users\HP\Desktop\Proyecto\proyecto.gpr
+20240206012616 2db418f4089b3aea13b6c17b72c1c8e7
+[BOUND OBJECT FILES]
+C:\Users\HP\Desktop\Proyecto\obj\ram.o
+[GENERATED SOURCE FILES]
+b__ram.ads
+b__ram.adb
+b__ram.ali
+[RESULTING OPTIONS]
+-LC:\Users\HP\Desktop\Proyecto\obj\
+-LC:\Users\HP\Desktop\Proyecto\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
